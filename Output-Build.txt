@@ -1,0 +1,10 @@
+﻿Building cac_status_checker...
+1>------ Publish started: Project: cac_status_checker, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3267: The primary reference "System.Net.Http", which is a framework assembly, could not be resolved in the currently targeted framework. ".NETFramework,Version=v4.0". To resolve this problem, either remove the reference "System.Net.Http" or retarget your application to a framework version which contains "System.Net.Http".
+1>  cac_status_checker -> C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe
+Connecting to 'C:\Users\Yassir Yahaya\Desktop\RMU CAPTURE\'...
+Publishing files...
+Publish success.
+https://publicsearch.cac.gov.ng/rmu_capture/publish.htm
+========== Build: 0 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========

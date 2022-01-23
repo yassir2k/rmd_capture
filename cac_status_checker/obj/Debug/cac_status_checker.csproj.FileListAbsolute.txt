@@ -1,0 +1,82 @@
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe.config
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe.manifest
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.application
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.pdb
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csprojAssemblyReference.cache
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.AboutBox.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.activityDateBased.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.addNewDirSub.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.changePassword.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.dsoDate.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.dsoToday.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editAddressForm.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editDirectorSubscriber.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editSecretaryForm.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.loginForm.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.newEntryForm.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.searchEntryForm.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.Properties.Resources.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.todaysActivites.resources
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csproj.GenerateResource.cache
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.TrustInfo.xml
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.exe.manifest
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.application
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.exe
+C:\Users\Yassir Yahaya\Documents\Visual Studio 2019\Projects\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.pdb
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe.config
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe.manifest
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.application
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.pdb
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csprojAssemblyReference.cache
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.AboutBox.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.activityDateBased.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.addNewDirSub.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.changePassword.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.dsoDate.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.dsoToday.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editAddressForm.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editDirectorSubscriber.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editSecretaryForm.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.loginForm.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.newEntryForm.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.searchEntryForm.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.Properties.Resources.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.searchUsingRC.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.todaysActivites.resources
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csproj.GenerateResource.cache
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csproj.CoreCompileInputs.cache
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.TrustInfo.xml
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.exe.manifest
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.application
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.exe
+C:\Users\Yassir Yahaya\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.pdb
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.AboutBox.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.activityDateBased.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.addNewDirSub.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.changePassword.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.dsoDate.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.dsoToday.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editAddressForm.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editDirectorSubscriber.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.editSecretaryForm.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.loginForm.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.newEntryForm.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.searchEntryForm.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.Properties.Resources.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.searchUsingRC.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.todaysActivites.resources
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csproj.GenerateResource.cache
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe.config
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe.manifest
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.application
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.exe
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\bin\Debug\cac_status_checker.pdb
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csproj.AssemblyReference.cache
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.csproj.CoreCompileInputs.cache
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.TrustInfo.xml
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.exe.manifest
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.application
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.exe
+C:\Users\yassi\source\repos\cac_status_checker\cac_status_checker\obj\Debug\cac_status_checker.pdb
